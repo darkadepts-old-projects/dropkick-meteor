@@ -1,0 +1,9 @@
+{
+	"name": "dropkick",
+	"description": "Use DropKick.js",
+	"homepage": "",
+	"author": "Mike Kornelson <mike@koretech.ca>",
+	"version": "0.1.0",
+	"git": "",
+	"packages": {}
+}
